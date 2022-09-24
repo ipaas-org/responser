@@ -1,3 +1,3 @@
-module github.com/vano2903/ipaas-org/responser
+module github.com/ipaas-org/responser
 
 go 1.19
